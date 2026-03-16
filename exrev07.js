@@ -1,0 +1,1 @@
+//Criar um programa pra exibir o triplo de um número

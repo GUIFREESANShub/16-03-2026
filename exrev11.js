@@ -1,0 +1,1 @@
+//criar um programa para mostrar se um número é maior que 22
