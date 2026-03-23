@@ -4,4 +4,4 @@
     console.log ("O numero é positivo")
 } else{
     console.log ("O numero é negativo")
-}v
+}
