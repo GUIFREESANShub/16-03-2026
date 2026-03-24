@@ -2,5 +2,5 @@
  
 let cidade = 'Maringá';
 
-console.log(`Eu moro na cidade de ${cidade}`);
+console.log(`Eu moro na cidade de ${cidade}`);g
  
